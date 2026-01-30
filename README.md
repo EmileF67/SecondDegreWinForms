@@ -1,4 +1,4 @@
-\# Le second degré avec Winforms
+# Le second degré avec Winforms
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-\## But :
+## But :
 
 
 
@@ -14,7 +14,7 @@ Cette app est faite pour donner les racines d'une équation du second degré.
 
 
 
-\## Détails :
+## Détails :
 
 
 
