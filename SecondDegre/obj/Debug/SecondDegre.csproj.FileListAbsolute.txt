@@ -1,0 +1,10 @@
+C:\Users\emile\Temp\SecondDegre\SecondDegre\obj\Debug\SecondDegre.csproj.AssemblyReference.cache
+C:\Users\emile\Temp\SecondDegre\SecondDegre\obj\Debug\SecondDegre.Properties.Resources.resources
+C:\Users\emile\Temp\SecondDegre\SecondDegre\obj\Debug\SecondDegre.csproj.GenerateResource.cache
+C:\Users\emile\Temp\SecondDegre\SecondDegre\obj\Debug\SecondDegre.csproj.CoreCompileInputs.cache
+C:\Users\emile\Temp\SecondDegre\SecondDegre\bin\Debug\SecondDegre.exe.config
+C:\Users\emile\Temp\SecondDegre\SecondDegre\bin\Debug\SecondDegre.exe
+C:\Users\emile\Temp\SecondDegre\SecondDegre\bin\Debug\SecondDegre.pdb
+C:\Users\emile\Temp\SecondDegre\SecondDegre\obj\Debug\SecondDegre.exe
+C:\Users\emile\Temp\SecondDegre\SecondDegre\obj\Debug\SecondDegre.pdb
+C:\Users\emile\Temp\SecondDegre\SecondDegre\obj\Debug\SecondDegre.Form1.resources
